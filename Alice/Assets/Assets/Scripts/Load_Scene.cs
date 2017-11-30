@@ -12,7 +12,7 @@ public class Load_Scene : MonoBehaviour {
     }
     public void OnMouseButton()
     {
-        SceneManager.LoadScene("Basement");
+        SceneManager.LoadScene("Basement2");
     }
 }
 

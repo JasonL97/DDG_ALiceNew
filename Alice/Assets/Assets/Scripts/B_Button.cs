@@ -24,7 +24,7 @@ public class B_Button : MonoBehaviour {
             if (Boosting == false)
             {
                 Player pl = player.GetComponent<Player>();
-                pl.moveSpeed = 100f;
+                pl.moveSpeed = 35;
                 Boosting = true;
 
             }

@@ -16,7 +16,7 @@ public class Stamina : MonoBehaviour {
     // Use this for initialization
     void Start () {
         cachedY = StaminaTransform.position.y;
-        maxXvalue = StaminaTransform.position.x - StaminaTransform.rect.width;
+        maxXvalue = StaminaTransform.position.x - 11;
         minXValue = StaminaTransform.position.x;
         currentStamina = maxStamina;
 

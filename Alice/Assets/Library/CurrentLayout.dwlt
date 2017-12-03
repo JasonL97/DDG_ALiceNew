@@ -108,10 +108,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 911, y: 421}
-  m_MaxSize: {x: 22006, y: 10021}
+  m_MinSize: {x: 917, y: 421}
+  m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
-  controlID: 6463
+  controlID: 15104
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,7 +135,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 421}
   m_MaxSize: {x: 4002, y: 8021}
   vertical: 1
-  controlID: 6363
+  controlID: 15105
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -367,14 +367,14 @@ MonoBehaviour:
     width: 603
     height: 354
   m_SceneLighting: 1
-  lastFramingTime: 3313.9683531461715
-  m_2DMode: 0
+  lastFramingTime: 4347.862812578212
+  m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -26.637115, y: -14.151535, z: -22.109245}
+    m_Target: {x: 153.289, y: 259.6155, z: 60.22611}
     speed: 2
-    m_Value: {x: -26.637115, y: -14.151535, z: -22.109245}
+    m_Value: {x: 153.289, y: 259.6155, z: 60.22611}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -389,27 +389,27 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
     yGrid:
-      m_Target: 1
-      speed: 2
-      m_Value: 1
-    zGrid:
       m_Target: 0
       speed: 2
       m_Value: 0
+    zGrid:
+      m_Target: 1
+      speed: 2
+      m_Value: 1
   m_Rotation:
-    m_Target: {x: -0.2965041, y: -0.4376354, z: 0.15550552, w: -0.83450526}
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
-    m_Value: {x: 0.29650408, y: 0.43763536, z: -0.15550552, w: 0.83450526}
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 194.33719
+    m_Target: 313.58835
     speed: 2
-    m_Value: 194.33719
+    m_Value: 313.58835
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: 0.021289343, y: -0.041666623, z: 0.00088927534, w: 0.99890435}
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -515,7 +515,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 8406ffffe620ffffe8c3ffffa0fbffff00000000982b0000
+    m_ExpandedIDs: 122bf7fff62bf7ff1e2df7ff262df7ff2c2df7ff382df7ff547bf7ffe67bf7ff107df7ff187df7ff1e7df7ff2a7df7ff7cc9f7ff64caf7ff90cbf7ff9acbf7ffa2cbf7ffb0cbf7ff9437f8ff7c38f8ffa839f8ffb239f8ffba39f8ffc839f8ffe48efbffe843fdff9032ffff86c1ffffa0fbffff00000000b0290000742a0000782a00008a2b0000e42c0000082e00003c2f000072300000064e01008e51010068550100a8570100e6570100feb3010046b401008cbb0100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -576,19 +576,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Material - Color
+    - Assets/Scene
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Material - Color
+  - Assets/Scene
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\GitHub\DDG_Alice2\DDG_ALiceNew\Alice\Assets
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4e270000
-    m_LastClickedID: 10062
-    m_ExpandedIDs: 000000002227000098270000e827000000ca9a3bffffff7f
+    m_SelectedIDs: f0270000
+    m_LastClickedID: 10224
+    m_ExpandedIDs: 00000000222700009a270000f227000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -616,7 +616,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: f8280000
     m_LastClickedID: 10488
-    m_ExpandedIDs: 000000002227000098270000e827000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000222700009a270000f227000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
